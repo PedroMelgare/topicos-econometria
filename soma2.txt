@@ -1,0 +1,12 @@
+#Entrada de dados
+a = float(input('Digite o primeiro numero'))
+
+b = float(input('Digite o segundo numero'))
+
+#Processamento
+
+soma = a + b
+
+#Saída
+
+print("A soma de seus números é:", soma)
