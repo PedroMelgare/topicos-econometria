@@ -1,4 +1,4 @@
-#Definição de funções
+#DefiniÃ§Ã£o de funÃ§Ãµes
 def soma(x,y):
 	soma=x+y
 	return(soma)
@@ -14,6 +14,6 @@ b = float(input('Digite o segundo numero'))
 
 z = soma(a,b)
 
-#Saída
+#SaÃ­da
 
-print("A soma de seus números é:", z)
+print("A soma de seus nÃºmeros Ã©:", z)
