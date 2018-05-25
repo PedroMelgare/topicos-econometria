@@ -7,6 +7,6 @@ b = float(input('Digite o segundo numero'))
 
 soma = a + b
 
-#Saída
+#SaÃ­da
 
-print("A soma de seus números é:", soma)
+print("A soma de seus nÃºmeros Ã©:", soma)
