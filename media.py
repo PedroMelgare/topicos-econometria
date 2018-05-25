@@ -7,6 +7,6 @@ b = float(input('Digite o segundo numero'))
 
 media = (a+b)/2
 
-#Saída
+#SaÃ­da
 
-print("A média de seus números é:", media)
+print("A mÃ©dia de seus nÃºmeros Ã©:", media)
